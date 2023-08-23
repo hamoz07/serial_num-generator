@@ -1,0 +1,35 @@
+span {
+    display: block;
+    margin: 20px auto 5px;
+    background: #2367a9;
+    width: fit-content;
+    color: white;
+    padding: 20px 30px;
+    font-size: 23px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    border: 3px solid #689250;
+    border-radius: 5px;
+}
+
+button {
+    outline: none;
+    border: none;
+    margin: 0 auto;
+    display: block;
+    padding: 10px 12.5px;
+    color: white;
+    font-weight: 500;
+    font-size: 17px;
+    background-color: #689250;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 1px solid #2367a9;
+    user-select: none;
+    transition: .5s;
+}
+
+button:hover{
+    background-color: #446333;
+
+}
